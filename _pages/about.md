@@ -38,17 +38,28 @@ My research interest includes audio and acoustics, and my main research is in th
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Graduated from my PhD candidacy from the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
 - *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
-- *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
-- *2024.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE25; titled *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN_2024_2780)"*, held at Nantes, France.
-- *2024.08*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled *"[A time-domain study on the effects of noise source incidence on plenum window with active noise control](https://doi.org/10.1016/j.buildenv.2024.111946)"*.
-- *2025.02*: &nbsp;🥼🎉 Our paper is accepted at Applied Acoustics; titled *"[Experimental study of active noise control for a full-scale plenum window in a domestic apartment](https://doi.org/10.1016/j.apacoust.2024.110120)"*.
-- *2024.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled *"[Optimization of single-channel active noise control performance in a plenum window using the surface impedance approach](https://doi.org/10.1121/10.0024938)"*.
-- *2023.03*: &nbsp;🪟🎉 Presented in ASA 2023 on our work regarding; *["Application of active noise control for plenum window in a domestic setting](https://doi.org/10.1121/10.0018016)"*, held at Chicago, USA.
-- *2023.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled *"[The interactive effects of traffic sound and window views on indoor soundscape perceptions in the residential area](https://doi.org/10.1121/10.0017203)"*.
-- *2022.10*: &nbsp;🥼🎉 Our paper is accepted at Applied Acoustics; titled *"[A comprehensive environmental sound categorization scheme of an urban city](https://doi.org/10.1016/j.apacoust.2022.109018)"*
-- *2022.04*: &nbsp;📝🎉 Our paper is accepted at JASA; titled *"[Effect of audio-visual interaction on soundscape in the urban residential context: A virtual reality experiment](https://doi.org/10.1016/j.apacoust.2022.108717)"*.
-- *2022.02*: &nbsp;📝🎉 Our paper is accepted at Applied Acoustics; titled *"[The effects of visual landscape and traffic type on soundscape perception in high-rise residential estates of an urban city](https://doi.org/10.1016/j.apacoust.2021.108580)"*
-- *2021.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE21; titled *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
+- *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled 
+*"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
+- *2024.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE25; titled 
+*"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN_2024_2780)"*, held at Nantes, France.
+- *2024.08*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled 
+*"[A time-domain study on the effects of noise source incidence on plenum window with active noise control](https://doi.org/10.1016/j.buildenv.2024.111946)"*.
+- *2025.02*: &nbsp;🥼🎉 Our paper is accepted at Applied Acoustics; titled 
+*"[Experimental study of active noise control for a full-scale plenum window in a domestic apartment](https://doi.org/10.1016/j.apacoust.2024.110120)"*.
+- *2024.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled 
+*"[Optimization of single-channel active noise control performance in a plenum window using the surface impedance approach](https://doi.org/10.1121/10.0024938)"*.
+- *2023.03*: &nbsp;🪟🎉 Presented in ASA 2023 on our work regarding; 
+*["Application of active noise control for plenum window in a domestic setting](https://doi.org/10.1121/10.0018016)"*, held at Chicago, USA.
+- *2023.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled 
+*"[The interactive effects of traffic sound and window views on indoor soundscape perceptions in the residential area](https://doi.org/10.1121/10.0017203)"*.
+- *2022.10*: &nbsp;🥼🎉 Our paper is accepted at Applied Acoustics; titled 
+*"[A comprehensive environmental sound categorization scheme of an urban city](https://doi.org/10.1016/j.apacoust.2022.109018)"*
+- *2022.04*: &nbsp;📝🎉 Our paper is accepted at JASA; titled 
+*"[Effect of audio-visual interaction on soundscape in the urban residential context: A virtual reality experiment](https://doi.org/10.1016/j.apacoust.2022.108717)"*.
+- *2022.02*: &nbsp;📝🎉 Our paper is accepted at Applied Acoustics; titled 
+*"[The effects of visual landscape and traffic type on soundscape perception in high-rise residential estates of an urban city](https://doi.org/10.1016/j.apacoust.2021.108580)"*
+- *2021.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE21; titled 
+*"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 
 # 📝 Publications 
 

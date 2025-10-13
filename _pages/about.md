@@ -23,8 +23,10 @@ My research interest includes audio and acoustics, and my core research is in th
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Graduated from my PhD candidacy from the National University of Singapore!
+- *2025.04*: &nbsp;🎉🎉 Participated in ICLR 2025, held in Singapore in the Workshop AI4CHL.
+- *2024.08*: &nbsp;🎉🎉 Presented "Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source", at the INTER-NOISE and NOISE-CON Congress and Conference Proceedings, INTER-NOISE24, Nantes, France.
+- *2024.
 
 # 📝 Publications 
 

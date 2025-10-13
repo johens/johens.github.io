@@ -114,6 +114,8 @@ My research interest is focused on the area of audio and acoustics, and my PhD w
 </div>
 </div>
 
+***The culmination of my dissertation on ANC can be read open-access here; [Scholarbank@NUS Dissertations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC).***
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Certificates 

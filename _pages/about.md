@@ -40,7 +40,7 @@ My research interest includes audio and acoustics, and my main research is in th
 - *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
 *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
-- *2025.06*: &nbsp;🎉🎉 Joined [EMPOWER](https://www.ntu.edu.sg/empower) lab at NTU as an Audio Researcher!
+- *2024.10*: &nbsp;🎉🎉 Joined [EMPOWER](https://www.ntu.edu.sg/empower) lab at NTU as an Audio Researcher!
 - *2024.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE25; titled  
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN_2024_2780)"*, held at Nantes, France.
 - *2024.08*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
@@ -125,5 +125,5 @@ My research interest includes audio and acoustics, and my main research is in th
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2018.05 - 2018.12*, Acoustic Internship - [Soundzipper LLP](https://soundzipper.com/)
-- *2013.01 - 2013.04*, Music Teacher Intern - Ministry of Education, Singapore. :: [Ahmad Ibrahim Secondary School](https://www.ahmadibrahimsec.moe.edu.sg/) :: Enhanced Music Programme ::
+- *2018.05 - 2018.12*: Acoustic Internship :: [Soundzipper LLP](https://soundzipper.com/)
+- *2013.01 - 2013.04*: Music Teacher Intern :: Ministry of Education, Singapore. :: [Ahmad Ibrahim Secondary School](https://www.ahmadibrahimsec.moe.edu.sg/) :: Enhanced Music Programme ::

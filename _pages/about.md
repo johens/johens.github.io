@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🎊 Welcome to my profile!
-#👋 About Me
 
 Hi! I am a creative technologist at heart and enjoy approaching problems from multiple perspectives. I am cross-disciplinary and have explored many different ideas and projects, starting first from music to audio, sound, acoustics, architecture and speech (particularly infant speech)). I graduated with my PhD. from the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf) for my contributions in ANC research, titled; *"Developments and applications of active noise control in plenum windows."* Recently, I contributed as a researcher at the [Nanyang Technological University](https://www.ntu.edu.sg/) for toddler speech and audio processing. Feel free to reach out to me for collaborations or AMA at; <a href='mailto:johann@live.com.sg'>johann@live.com.sg
 

@@ -36,7 +36,7 @@ My research interest includes audio and acoustics, and my main research is in th
 </a>
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Graduated from my PhD candidacy from the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
+- *2025.06*: &nbsp;🎉🎉 Graduated from my PhD candidacy at the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
 - *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
 *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.

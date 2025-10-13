@@ -59,6 +59,7 @@ My research interest includes audio and acoustics, and my main research is in th
 *"[Effect of audio-visual interaction on soundscape in the urban residential context: A virtual reality experiment](https://doi.org/10.1016/j.apacoust.2022.108717)"*.
 - *2022.02*: &nbsp;📝🎉 Our paper is accepted at Applied Acoustics; titled  
 *"[The effects of visual landscape and traffic type on soundscape perception in high-rise residential estates of an urban city](https://doi.org/10.1016/j.apacoust.2021.108580)"*
+- *2022.01*: &nbsp;🏃‍♂️🇸🇬 Started my PhD at the National University of Singapore!
 - *2021.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE21; titled  
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 

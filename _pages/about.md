@@ -62,6 +62,14 @@ My research interest includes audio and acoustics, and my main research is in th
 - *2021.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE21; titled  
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 
+# 📖 Educations
+- *2022.01 - 2025.06*: 👨‍🎓 Doctor of Philosophy, National University of Singapore.  
+*Dissertation: [Developments of active noise control in plenum windows.](https://scholarbank.nus.edu.sg/handle/10635/310458)*
+- *2016.08 - 2020.06*: 🎙 Bachelors of Music (Honours - Distinction), Audio Art & Science, National University of Singapore.
+*Honours thesis: [Binaural recording methods with analysis on inter-aural time, level, and phase differences](https://doi.org/10.48550/arXiv.2312.16884)* 
+- *2012.04 - 2014.04*: 🎶 Diploma in Music & Audio Technology, Singapore Polyechnic.
+*Final Year Project: [I'll Risk my Heart - johens](https://open.spotify.com/track/6dkPAiOKoJlpU0zpgiackS)*
+
 # 📝 Selected Publications 
 &nbsp; 🔊 **Active Noise Control (ANC)**
 
@@ -72,7 +80,6 @@ My research interest includes audio and acoustics, and my main research is in th
 
 **TAN J.K.**, & LAU, S-K.
 
-{[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='2efZMcAAAAJ:Y0pCki6q_DkC'></span></strong>}
 - A time-domain simulation method is developed to study noise control in plenum window.
 - 3D time-domain validation is conducted with an experimental study for comparability.
 - The method also motivates further time-domain analysis on multiple and moving noise sources. 
@@ -81,15 +88,11 @@ My research interest includes audio and acoustics, and my main research is in th
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🎖 Certificates 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
+# 🚧 Other Projects
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 

@@ -16,10 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 🎊 Welcome to my profile!
 
-Hi! I am a creative technologist at heart and enjoy approaching problems from multiple perspectives. I am cross-disciplinary and have explored many different ideas and projects, starting first from music to audio, sound, acoustics, architecture and speech (child development). I am adept at assimilating new ideas, concepts, methods, and technologies, I am confident I can be a worthy addition!
+Hi! I am a creative technologist at heart and enjoy approaching problems from multiple perspectives. I am cross-disciplinary and have explored many different ideas and projects, starting first from music to audio, sound, acoustics, architecture and speech (particularly infant speech)). I graduated with my PhD. from the National University of Singapore for my contributions in ANC research, titled; *"Developments and applications of active noise control in plenum windows."* Recently, I contributed as a researcher at the Nanyang Technological University for toddler speech and audio processing.
 
-My research interest includes audio and acoustics, and my core research is in the area of active noise cancellation for complex environments (eg. aircraft cabin). I have published several papers in Q1 journals and conferences; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes audio and acoustics, and my main research is in the area of active noise cancellation for complex environments (eg. aircraft cabin) and soundscape research. I have published several papers in Q1 journals and conferences on the topic; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  <strong><span id='total_cit'>150+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 
 # 🔥 News

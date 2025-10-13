@@ -20,15 +20,20 @@ redirect_from:
 
 Hi! I am a creative technologist at heart and enjoy approaching problems from multiple perspectives. I am cross-disciplinary and have explored many different ideas and projects, starting first from music to audio, sound, acoustics, architecture and speech (particularly infant speech)). I graduated with my PhD. from the National University of Singapore for my contributions in ANC research, titled; *"Developments and applications of active noise control in plenum windows."* Recently, I contributed as a researcher at the Nanyang Technological University for toddler speech and audio processing.
 
-My research interest includes audio and acoustics, and my main research is in the area of active noise cancellation for complex environments (eg. aircraft cabin) and soundscape research. I have published several papers in Q1 journals and conferences on the topic; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  
+My research interest includes audio and acoustics, and my main research is in the area of active noise cancellation for complex environments (eg. aircraft cabin) and soundscape research. I have published several papers in Q1 journals and conferences on these topic; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  
 
 <a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">
   <img
     alt="Google Scholar citations"
-    src="https://img.shields.io/badge/citations-150-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
+    src="https://img.shields.io/badge/citations-154-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
   />
 </a>
-
+<a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">
+  <img
+    alt="h-index"
+    src="https://img.shields.io/badge/h--index-6-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
+  />
+</a>
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Graduated from my PhD candidacy from the National University of Singapore!

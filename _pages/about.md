@@ -63,7 +63,7 @@ My research interest includes audio and acoustics, and my main research is in th
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 
 # 📝 Selected Publications 
-** &nbsp; 🔊 Active Noise Control (ANC)**
+&nbsp; 🔊 **Active Noise Control (ANC)**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

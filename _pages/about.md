@@ -86,6 +86,20 @@ My research interest includes audio and acoustics, and my main research is in th
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)
+
+**TAN J.K.**, & LAU, S-K.
+
+- The time-domain simulation method is extended to investigate the performance degradation due to multiple and moving noise sources on ANC systems installed on plenum windows.
+- Active noise control in plenum windows is unaffected by multiple monotonic noises but degraded in conditions with multiple multi-tonal and complex noise sources.
+- Convergence time increased when exposed to incrementing noise sources of some noise types.
+- Active noise control performance is altered when exposed to certain types of moving sources.
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Certificates 

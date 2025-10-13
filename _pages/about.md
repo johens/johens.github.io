@@ -99,7 +99,7 @@ My research interest includes audio and acoustics, and my main research is in th
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/expstudy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/expstudy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Experimental study of active noise control for a full-scale plenum window in a domestic apartment](https://doi.org/10.1016/j.apacoust.2024.110120)

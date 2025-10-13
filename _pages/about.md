@@ -72,7 +72,7 @@ My research interest includes audio and acoustics, and my main research is in th
 
 **TAN J.K.**, & LAU, S-K.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='2efZMcAAAAJ:Y0pCki6q_DkC'></span></strong>
+{[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='2efZMcAAAAJ:Y0pCki6q_DkC'></span></strong>}
 - A time-domain simulation method is developed to study noise control in plenum window.
 - 3D time-domain validation is conducted with an experimental study for comparability.
 - The method also motivates further time-domain analysis on multiple and moving noise sources. 

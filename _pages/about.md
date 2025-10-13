@@ -100,6 +100,19 @@ My research interest includes audio and acoustics, and my main research is in th
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/expstudy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Experimental study of active noise control for a full-scale plenum window in a domestic apartment](https://doi.org/10.1016/j.apacoust.2024.110120)
+
+**TAN J.K.**, & LAU, S-K.
+
+- Implementation of active noise control (ANC) is field-tested and deployed in a full-scale plenum window.
+- A comparison is made for single, and decentralized dual-channel ANC configuration. A Dual-channel ANC can achieve 6 dB local attenuation below 500 Hz or 5.4 dB below 800 Hz.
+- The ANC applied in the plenum window proved effective against common urban noise types.
+- The developed ANC system remains robust even with mechanical ventilation fan operating inside the plenum.
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Certificates 

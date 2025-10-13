@@ -94,7 +94,6 @@ My research interest includes audio and acoustics, and my main research is in th
 **TAN J.K.**, & LAU, S-K.
 
 - The time-domain simulation method is extended to investigate the performance degradation due to multiple and moving noise sources on ANC systems installed on plenum windows.
-- Active noise control in plenum windows is unaffected by multiple monotonic noises but degraded in conditions with multiple multi-tonal and complex noise sources.
 - Convergence time increased when exposed to incrementing noise sources of some noise types.
 - Active noise control performance is altered when exposed to certain types of moving sources.
 </div>

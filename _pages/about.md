@@ -40,6 +40,7 @@ My research interest includes audio and acoustics, and my main research is in th
 - *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
 *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
+- *2025.06*: &nbsp;🎉🎉 Joined [EMPOWER](https://www.ntu.edu.sg/empower) lab at NTU as an Audio Researcher!
 - *2024.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE25; titled  
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN_2024_2780)"*, held at Nantes, France.
 - *2024.08*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
@@ -61,9 +62,10 @@ My research interest includes audio and acoustics, and my main research is in th
 - *2021.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE21; titled  
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 
-# 📝 Publications 
+# 📝 Selected Publications 
+** &nbsp; 🔊 Active Noise Control (ANC)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)

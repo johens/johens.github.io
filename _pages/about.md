@@ -68,12 +68,14 @@ My research interest includes audio and acoustics, and my main research is in th
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A time-domain study on the effects of noise source incidence on plenum window with active noise control](https://doi.org/10.1016/j.buildenv.2024.111946)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**TAN J.K.**, & LAU, S-K.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:Y0pCki6q_DkC) <strong><span class='show_paper_citations' data='2efZMcAAAAJ:Y0pCki6q_DkC'></span></strong>
+- A time-domain simulation method is developed to study noise control in plenum window.
+- 3D time-domain validation is conducted with an experimental study for comparability.
+- The method also motivates further time-domain analysis on multiple and moving noise sources. 
 </div>
 </div>
 

@@ -65,9 +65,9 @@ My research interest includes audio and acoustics, and my main research is in th
 # 📖 Educations
 - *2022.01 - 2025.06*: 👨‍🎓 Doctor of Philosophy, National University of Singapore.  
 *Dissertation: [Developments of active noise control in plenum windows.](https://scholarbank.nus.edu.sg/handle/10635/310458)*
-- *2016.08 - 2020.06*: 🎙 Bachelors of Music (Honours - Distinction), Audio Art & Science, National University of Singapore.
+- *2016.08 - 2020.06*: 🎙 Bachelors of Music (Honours - Distinction), Audio Art & Science, National University of Singapore.  
 *Honours thesis: [Binaural recording methods with analysis on inter-aural time, level, and phase differences](https://doi.org/10.48550/arXiv.2312.16884)* 
-- *2012.04 - 2014.04*: 🎶 Diploma in Music & Audio Technology, Singapore Polyechnic.
+- *2012.04 - 2014.04*: 🎶 Diploma in Music & Audio Technology, Singapore Polyechnic.  
 *Final Year Project: [I'll Risk my Heart - johens](https://open.spotify.com/track/6dkPAiOKoJlpU0zpgiackS)*
 
 # 📝 Selected Publications 

@@ -112,6 +112,7 @@ My research interest includes audio and acoustics, and my main research is in th
 - The ANC applied in the plenum window proved effective against common urban noise types.
 - The developed ANC system remains robust even with mechanical ventilation fan operating inside the plenum.
 </div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

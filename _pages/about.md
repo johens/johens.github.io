@@ -20,7 +20,8 @@ redirect_from:
 
 Hi! I am a creative technologist at heart and enjoy approaching problems from multiple perspectives. I am an inter-disciplinant and explored many ideas and projects, starting first from music to audio, spanning sound, acoustics, architecture, and speech (particularly infant speech). I graduated with my PhD. in 2025 from the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf) for my contributions in ANC research applied to complex spaces. My dissertation is titled; *"Developments and applications of active noise control in plenum windows."* Concurrently, I also contributed as a researcher at the [Nanyang Technological University](https://www.ntu.edu.sg/) for toddler speech and audio processing. Feel free to reach out to me for collaborations or AMA at; <a href='mailto:johann@live.com.sg'>johann@live.com.sg
 
-My research interest is focused on the area of audio and acoustics, and my PhD was in the sub-topic of active noise control (eg. aircraft cabin) and soundscape research. I have since published several papers in Q1 journals and conferences on these topic and more; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar. In my spare time I also enjoy music, so some of the projects displayed here includes my musical works which I pursued for fun, as well as some professional work for institutions and government. 🐦
+My research interest is focused on the area of audio and acoustics, and my PhD was in the sub-topic of active noise control (eg. aircraft cabin) and soundscape research. I have since published several papers in Q1 journals and conferences on these topic and more; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  
+In my spare time I also enjoy music, so some of the projects displayed here includes my musical works which I pursued for fun, as well as some professional work for institutions and government. 🐦
 
 <a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">
   <img
@@ -116,7 +117,7 @@ My research interest is focused on the area of audio and acoustics, and my PhD w
 
 🔊 ***The culmination of my dissertation on ANC can be read open-access here; [Scholarbank@NUS Dissertations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC).***
 
-&nbsp; 🔊 **Soundscape Research**
+&nbsp; ⛰ **Soundscape Research**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/AA2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

@@ -74,6 +74,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 
 # 📝 Selected Publications 
 &nbsp; 🔊 **Active Noise Control (ANC)**
+📑 ***The culmination of my dissertation on ANC can be read open-access here; [Scholarbank@NUS Dissertations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC).***
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/BE1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,8 +115,6 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 - The developed ANC system remains robust even with mechanical ventilation fan operating inside the plenum.
 </div>
 </div>
-
-🔊 ***The culmination of my dissertation on ANC can be read open-access here; [Scholarbank@NUS Dissertations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC).***
 
 &nbsp; ⛰ **Soundscape Research**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/AA2.png' alt="sym" width="100%"></div></div>

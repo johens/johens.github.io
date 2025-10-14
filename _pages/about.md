@@ -114,7 +114,47 @@ My research interest is focused on the area of audio and acoustics, and my PhD w
 </div>
 </div>
 
-***The culmination of my dissertation on ANC can be read open-access here; [Scholarbank@NUS Dissertations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC).***
+🔊 ***The culmination of my dissertation on ANC can be read open-access here; [Scholarbank@NUS Dissertations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC).***
+
+&nbsp; 🔊 **Soundscape Research**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/AA2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A comprehensive environmental sound categorization scheme of an urban city](https://doi.org/10.1016/j.apacoust.2022.109018)
+
+**TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
+
+- 61 commonly occurring sounds in the urban city were identified and a comprehensive sound categorization scheme and alternate schemes are proposed.
+- Leaves rustling was found to be highly pleasant and calming in soundscape context and human vocalization had comparably higher eventfulness attribute than human activities.
+- Specific traffic source elements contributed the most to traffic noise annoyance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/AA1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The effects of visual landscape and traffic type on soundscape perception in high-rise residential estates of an urban city](https://doi.org/10.1016/j.apacoust.2021.108580)
+
+**TAN J.K.**, HASEGAWA, Y., LAU, S-K., & TANG, S-K.
+
+- Developed a regression model of overall sound quality for urban soundscapes.
+- Landscape features and traffic types have a main effect on overall sound quality of soundscape.
+- Results suggested a tolerance by city-dwellers to light traffic in urban residential environment.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The effects of aural and visual factors on appropriateness ratings of residential spaces in an urban city](https://doi.org/10.3397/IN-2021-3048)
+
+**TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
+
+- Specific aural sound sources are found to correlate uniquely to appropriateness while controlling for relevant visual elements
+- Perception of appropriateness is found to likely be more dependent on the individual visual element
+- Appropriateness in soundscape is derived from the expectation of sound sources in a specific environment, place or function and heard by a listener.
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 

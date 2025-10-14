@@ -74,7 +74,7 @@ My research interest is focused on the area of audio and acoustics, and my PhD w
 # 📝 Selected Publications 
 &nbsp; 🔊 **Active Noise Control (ANC)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/BE1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A time-domain study on the effects of noise source incidence on plenum window with active noise control](https://doi.org/10.1016/j.buildenv.2024.111946)
@@ -87,7 +87,7 @@ My research interest is focused on the area of audio and acoustics, and my PhD w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building & Environment, Q1</div><img src='images/BE2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)

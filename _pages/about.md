@@ -164,6 +164,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
        style="float:right !important; margin:0 0 0.5rem 1rem; width:220px; max-width:220px; height:auto;">
   <span class="badge rounded-pill text-bg-info">Dataset</span>
 
+  💾  
   [Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholarbank.nus.edu.sg/handle/10635/243148)  
   **Project duration: 2021.01 - 2023.06**
 

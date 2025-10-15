@@ -158,13 +158,14 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 </div>
 
 # 🚧 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="100%" height="20%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="60%></div></div>
 <div class='paper-box-text' markdown="1">
   
   [💾 Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholarbank.nus.edu.sg/handle/10635/243148)  
   **Project duration: 2021.01 - 2023.06**
 
   - A large anonymised dataset containing site recordings made across Singapore in 300 randomly selected locations.
+  - <img src='images/AA2.png' alt="sym" width="40%">
 
 </div>
 </div>

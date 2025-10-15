@@ -161,7 +161,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 <div class='paper-box-text' markdown="1">
   <img src="images/dataset.jpg"
        alt="sym"
-       style="float:right !important; margin:0 0 0.5rem 1rem; width:220px; max-width:220px; height:auto;">
+       style="float:right !important; margin:0 0 0.8rem 1rem; width:220px; max-width:220px; height:auto;">
   <span class="badge rounded-pill text-bg-info">Dataset</span>
 
   💾  

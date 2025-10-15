@@ -158,7 +158,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 
 # 🚧 Projects
 <div class="paper-box" style="width:100%; max-width:none; padding-right:0;">
-  <img src="images/dataset.jpeg" alt="sym"
+  <img src="images/dataset.jpg" alt="sym"
        style="float:right; margin:0 0 0.5rem 1rem; width:220px; height:auto;">
 
   <div class="paper-box-text" markdown="1" style="display:flow-root;">

@@ -160,7 +160,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/BE1.png' alt="sym" width="60%"></div></div><span class="badge badge-pill badge-info">Info</span>
 <div class='paper-box-text' markdown="1">
 
-[Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholarbank.nus.edu.sg/handle/10635/243148)
+[Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholarbank.nus.edu.sg/handle/10635/243148)  
 **Project duration: 2021.01 - 2023.06**
 
 - A large anonymised dataset containing site recordings made across Singapore in 300 randomly selected locations.

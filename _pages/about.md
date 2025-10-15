@@ -66,7 +66,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 
 # 📖 Education
 - *2022.01 - 2025.06*: 👨‍🎓 Doctor of Philosophy, National University of Singapore.  
-*Dissertation: [Developments of active noise control in plenum windows.]([https://scholarbank.nus.edu.sg/handle/10635/310458](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC))*
+*Dissertation: [Developments of active noise control in plenum windows.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC)*
 - *2016.08 - 2020.06*: 🎙 Bachelors of Music (Honours - Distinction), Audio Art & Science, National University of Singapore.  
 *Honours thesis: [Binaural recording methods with analysis on inter-aural time, level, and phase differences](https://doi.org/10.48550/arXiv.2312.16884)* 
 - *2012.04 - 2014.04*: 🎶 Diploma in Music & Audio Technology, Singapore Polyechnic.  
@@ -156,15 +156,13 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+# 🚧 Projects
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  
 # 🎖 Certificates 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 🚧 Other Projects
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2018.05 - 2018.12*: Acoustic Internship :: [Soundzipper LLP](https://soundzipper.com/)

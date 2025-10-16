@@ -220,17 +220,6 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Podcast</div><img src='images/hotd.jpg' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-  [🎙 Home on the Dot :: Audio Engineer & Sound Designer](https://blog.nus.edu.sg/homeonthedot/)  
-  **Project duration: 2019.01 - 2020.01**
-
-  - Sound designer for 2 seasons of Home on the Dot podcast; featuring NUS' student stories exploring many different facets of life in the little red dot called Singapore.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/bahagia.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -240,11 +229,29 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/ndp15.png' alt="sym" width="40%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Original</div><img src='images/me2.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-  [🪖 Singapore’s 50th Anniversary National Day Parade (Our Golden Jubilee - Chapter 3) Mobile Column :: Music & Sound (Multimedia) IC](https://www.youtube.com/watch?v=DsTcd6HpL6g)  
-  **Project duration: 2015.01 - 2015.08**
+  [🎧 Original single - 期待着你回来](https://open.spotify.com/track/13EqTfOwfyvN5iz70cmJXR?si=f35c026b181f447e)  
+  **Project duration: 2014.01 - 2016.06**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Original</div><img src='images/irmh.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🎆 Original single - I'll Risk my Heart](https://open.spotify.com/track/6dkPAiOKoJlpU0zpgiackS?si=2385904a1d2342b9)  
+  **Project duration: 2014.01 - 2016.06**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Original</div><img src='images/me2.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🎧 Original single - Want Me](https://open.spotify.com/track/3wjK9NyKQ838EbklkKTQSh?si=b993206639f946bc)  
+  **Project duration: 2017.05 - 2019.06**
 
 </div>
 </div>
@@ -267,8 +274,8 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2012.11*, [🌍 第12届全球华语歌曲排行榜颁奖典礼 - 12th Global Chinese Music Awards (GCMA) :: Multitrack Operator](https://www.youtube.com/watch?v=OxDXhaS-W04) 
+
   
 # 🎖 Certificates 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

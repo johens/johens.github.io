@@ -173,7 +173,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERNOISE</div><img src='images/INCE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERNOISE</div><img src='images/in21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The effects of aural and visual factors on appropriateness ratings of residential spaces in an urban city](https://doi.org/10.3397/IN-2021-3048)

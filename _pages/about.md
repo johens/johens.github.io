@@ -197,6 +197,18 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/AEsg.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🚧 Project Manager for D\&B of Audio Exotics Singapore :: A high-end audiophile studio construction](https://soundzipper.com/portfolio/audio-exotics/)  
+  **Project duration: 2018.01 - 2021.01**
+
+  - PM role for design \& build of a state-of-the-art listening room and audiophile space in Singapore.
+  - Utilized advanced acoustics fabrication and construction, such as steel bass traps and curved walls for an optimized acoustical room response serving the music.
+
+</div>
+</div>
+
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
   

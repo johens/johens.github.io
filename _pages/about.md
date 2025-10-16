@@ -185,14 +185,14 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 
 # 🚧 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="60%></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
   [💾 Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholarbank.nus.edu.sg/handle/10635/243148)  
   **Project duration: 2021.01 - 2023.06**
 
   - A large anonymised dataset containing site recordings made across Singapore in 300 randomly selected locations.
-  - Utilized by researchers to advance work on soundscape studies.
+  - The open dataset have since been used by several other researchers to advance soundscape studies.
 
 </div>
 </div>

@@ -291,7 +291,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 - ***2025.02*** Bayley-4: Introductory Online Training :: Scales of Infant and Toddler Development Assessment :: Pearson
 - ***2025.01*** Unraveling the Cycling City :: University of Amsterdam
 - ***2023.07*** Peer Staff Supporter Training - Be a Peer Staff Supporter :: National University of Singapore
-- ***2023.06 \& Renewed 2024.10*** Responsible Conduct of Research :: CITI Program
+- ***2023.06 & Renewed 2024.10*** Responsible Conduct of Research :: CITI Program
 - ***2019.01*** Sound System Design & Optimisation Course by Merlijn van Veen (Meyer Sound) :: Royal Conservatory The Hague, Netherlands.
 
 # 💻 Internships

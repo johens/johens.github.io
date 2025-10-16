@@ -212,7 +212,18 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Podcast</div><img src='images/hotd.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-  [🎙 Home on the Dot :: Audio Engineer \& Sound Designer](https://blog.nus.edu.sg/homeonthedot/)  
+  [🎙 Home on the Dot :: Audio Engineer & Sound Designer](https://blog.nus.edu.sg/homeonthedot/)  
+  **Project duration: 2019.01 - 2020.01**
+
+  - Sound designer for 2 seasons of Home on the Dot podcast; featuring NUS' student stories exploring many different facets of life in the little red dot called Singapore.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Podcast</div><img src='images/hotd.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🎙 Home on the Dot :: Audio Engineer & Sound Designer](https://blog.nus.edu.sg/homeonthedot/)  
   **Project duration: 2019.01 - 2020.01**
 
   - Sound designer for 2 seasons of Home on the Dot podcast; featuring NUS' student stories exploring many different facets of life in the little red dot called Singapore.
@@ -223,8 +234,35 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/bahagia.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-  [🎸 Semoga Bahagia (GOV.sg)](https://www.facebook.com/gov.sg/posts/heres-the-story-of-4-young-singaporeans-who-have-found-ways-to-give-back-to-the-/10158574346818686/)  
+  [🎸 Semoga Bahagia (GOV.sg) :: Acoustic Guitarist](https://www.facebook.com/gov.sg/posts/heres-the-story-of-4-young-singaporeans-who-have-found-ways-to-give-back-to-the-/10158574346818686/)  
   **Project duration: 2020.07 - 2020.08**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/ndp15.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🪖 Singapore’s 50th Anniversary National Day Parade (Our Golden Jubilee - Chapter 3) Mobile Column :: Music & Sound (Multimedia) IC](https://www.youtube.com/watch?v=DsTcd6HpL6g)  
+  **Project duration: 2015.01 - 2015.08**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/ndp15.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🪖 Singapore’s 50th Anniversary National Day Parade (Our Golden Jubilee - Chapter 3) Mobile Column :: Music & Sound (Multimedia) IC](https://www.youtube.com/watch?v=DsTcd6HpL6g)  
+  **Project duration: 2015.01 - 2015.08**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/me.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🎫 SPEAR Launch 2013 - Celestia :: Acoustic Guitarist](https://www.youtube.com/watch?v=ZYAasPtmPn4)  
+  **Project duration: 2013.06 - 2013.06**
 
 </div>
 </div>

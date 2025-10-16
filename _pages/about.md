@@ -185,7 +185,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 
 # 🚧 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="40%></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="60%></div></div>
 <div class='paper-box-text' markdown="1">
   
   [💾 Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholarbank.nus.edu.sg/handle/10635/243148)  

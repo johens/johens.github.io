@@ -278,8 +278,21 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 
   
 # 🎖 Certificates 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07* Professional Certificate: Metaverse Business Opportunities | National University of Singapore, SoC
+- *2024.07* Professional Certificate: Anaconda Python for Data Science | Anaconda Inc.
+- *2024.06* Professional Certificate: Career Essentials in GitHub | Github
+- *2024.04* Professional Certificate in Deep Learning for IoT | National University of Singapore, SoC
+- *2020.12* Professional Certificate in Artificial Intelligence for Non-AI Scientists | National University of Singapore, SoC
+- *2024.04* Professional Certificate: Procore Construction Management | Procore Technologies
+- *2024.07* WSQ - Internet of Things (IoT) Management with Raspberry Pi | Tertiary Courses
+- *2024.07* Edge AI | Edge Impulse
+- *2023.06* LabVIEW Core 1, 2, 3 | National Instruments
+- *2025.05* Speaker Recognition | By Award Winning Textbook Author - Quan Wang | Udemy
+- *2025.02* Bayley-4: Introductory Online Training | Scales of Infant and Toddler Development Assessment | Pearson
+- *2025.01* Unraveling the Cycling City | University of Amsterdam
+- *2023.07* Peer Staff Supporter Training - Be a Peer Staff Supporter | National University of Singapore
+- *2023.06 \& Renewed 2024.10* Responsible Conduct of Research | CITI Program
+- *2019.01* Sound System Design & Optimisation Course by Merlijn van Veen (Meyer Sound) | Royal Conservatory The Hague, Netherlands.
 
 # 💻 Internships
 - *2018.05 - 2018.12*: Acoustic Internship :: [Soundzipper LLP](https://soundzipper.com/)

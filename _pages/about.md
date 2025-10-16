@@ -20,7 +20,7 @@ redirect_from:
 
 Hi! I am a creative technologist at heart and enjoy approaching problems from multiple perspectives. I am an inter-disciplinant and explored many ideas and projects, starting first from music to audio, spanning sound, acoustics, architecture, and speech (particularly infant speech). I graduated with my PhD. in 2025 from the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf) for my contributions in ANC research applied to complex spaces. My dissertation is titled; *"Developments and applications of active noise control in plenum windows."* Concurrently, I also contributed as a researcher at the [Nanyang Technological University](https://www.ntu.edu.sg/) for toddler speech and audio processing. Feel free to reach out to me for collaborations or AMA at; <a href='mailto:johann@live.com.sg'>johann@live.com.sg
 
-My research interest is focused on the area of audio and acoustics, and my PhD was in the sub-topic of active noise control (eg. aircraft cabin) and soundscape research. I have since published several papers in Q1 journals and conferences on these topic and more; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  
+My research interest is focused on the area of audio and acoustics, and my PhD was in the sub-topic of active noise control (eg. aircraft cabin) and soundscape research. I also contributed to several works for audio/acoustics on virtual reality reproduction based HMD and CAVE systems. On the industrious front, I worked on several acoustics construction project and audio projects relating to speech enhancement work (incl. AEC/AFC, dereverbeation, and speech source separation). I have since published several papers in Q1 journals and conferences on these topic and more; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  
 <a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">
   <img
     alt="Google Scholar citations"
@@ -34,10 +34,10 @@ My research interest is focused on the area of audio and acoustics, and my PhD w
   />
 </a>
 
-In my spare time I also enjoy music, so some of the projects displayed here includes my musical works which I pursued for fun, as well as some professional work for institutions and government. 🐦
+In my spare time I also enjoy music, so some of the projects displayed here includes my musical works which I pursued on the side (original singles, podcast, etc...), as well as some professional work for institutions and government. 🐦
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Graduated from my PhD candidacy at the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
+- *2025.06*: &nbsp;🎉🎉 **Graduated from my PhD candidacy at the** [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
 - *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
 *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
@@ -65,11 +65,11 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 
 # 📖 Education
-- *2022.01 - 2025.06*: 👨‍🎓 Doctor of Philosophy, National University of Singapore.  
+- *2022.01 - 2025.06*: 👨‍🎓 **Doctor of Philosophy, National University of Singapore.**  
 *Dissertation: [Developments of active noise control in plenum windows.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC)*
-- *2016.08 - 2020.06*: 🎙 Bachelors of Music (Honours - Distinction), Audio Art & Science, National University of Singapore.  
+- *2016.08 - 2020.06*: 🎙 **Bachelors of Music (Honours - Distinction), Audio Art & Science, National University of Singapore.**  
 *Honours thesis: [Binaural recording methods with analysis on inter-aural time, level, and phase differences](https://doi.org/10.48550/arXiv.2312.16884)* 
-- *2012.04 - 2014.04*: 🎶 Diploma in Music & Audio Technology, Singapore Polyechnic.  
+- *2012.04 - 2014.04*: 🎶 **Diploma in Music & Audio Technology, Singapore Polyechnic.**  
 *Final Year Project: [I'll Risk my Heart - johens](https://open.spotify.com/track/6dkPAiOKoJlpU0zpgiackS)*
 
 # 📝 Selected Publications 
@@ -185,7 +185,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 
 # 🎛 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="40%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
   [💾 Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholarbank.nus.edu.sg/handle/10635/243148)  

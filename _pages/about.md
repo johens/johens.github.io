@@ -209,6 +209,15 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/bahagia.png' alt="sym" width="40%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🎸 Semoga Bahagia (GOV.sg)](https://www.facebook.com/gov.sg/posts/heres-the-story-of-4-young-singaporeans-who-have-found-ways-to-give-back-to-the-/10158574346818686/)  
+  **Project duration: 2020.07 - 2020.08**
+  
+</div>
+</div>
+
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
   

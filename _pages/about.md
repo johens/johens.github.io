@@ -118,7 +118,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 </div>
 
 &nbsp; ⛰ **Virtual Reality Research**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/AA2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Acoustics, Q1</div><img src='images/VR1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Effect of audio-visual interaction on soundscape in the urban residential context: A virtual reality experiment](https://doi.org/10.1016/j.apacoust.2022.108717)
@@ -128,6 +128,19 @@ LU, Y., HASEGAWA, Y., **TAN J.K.**, & LAU, S-K.
 - Unity VR is used to collect both subjective and objective data.
 - Investigated the role of visual distraction on the aural perception. Soundscape descriptors depended on both aural and visual indicators.
 - Traffic sound will moderate the effect of other indicators on descriptors.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASA, Q1</div><img src='images/VR2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The interactive effects of traffic sound and window views on indoor soundscape perceptions in the residential area](https://doi.org/10.1121/10.0017203)
+
+LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
+
+- Assessment of soundscape perception in VR paradigm under exposure to natural indoor window views.
+- Traffic noise moderates impact of nature, road, and building views on soundscape perception while also moderating specific pleasant sounds.
+- Overall visual indicators have an interactive effect with traffic noise on perceptual soundscape attributes.
 </div>
 </div>
 
@@ -158,7 +171,7 @@ LU, Y., HASEGAWA, Y., **TAN J.K.**, & LAU, S-K.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERNOISE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERNOISE</div><img src='images/INCE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The effects of aural and visual factors on appropriateness ratings of residential spaces in an urban city](https://doi.org/10.3397/IN-2021-3048)

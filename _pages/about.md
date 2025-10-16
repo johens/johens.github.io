@@ -209,12 +209,23 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Podcast</div><img src='images/hotd.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [🎙 Home on the Dot :: Audio Engineer \& Sound Designer](https://blog.nus.edu.sg/homeonthedot/)  
+  **Project duration: 2019.01 - 2020.01**
+
+  - Sound designer for 2 seasons of Home on the Dot podcast; featuring NUS' student stories exploring many different facets of life in the little red dot called Singapore.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Music</div><img src='images/bahagia.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
   
   [🎸 Semoga Bahagia (GOV.sg)](https://www.facebook.com/gov.sg/posts/heres-the-story-of-4-young-singaporeans-who-have-found-ways-to-give-back-to-the-/10158574346818686/)  
   **Project duration: 2020.07 - 2020.08**
-  
+
 </div>
 </div>
 

@@ -187,6 +187,18 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 
 # 🎛 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/bbsed.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+  [📱 Browser-based soundscape sound event detection model (BBSED)](https://github.com/johens/bb-sed.git)  
+  **Project duration: 2022.01 - 2022.03**
+
+  - Lightweight model for soundscape sound event detection. Trainable with Google Teachable Machine or Edge Impulse using CNN.
+  - Able to run on browsers of smartphone, personal laptops, or low-resource device (eg. Raspberry Pi)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Dataset</div><img src='images/dataset.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   

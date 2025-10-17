@@ -188,7 +188,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 
 # 🎛 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/bbsed.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/bbsed.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
   [📱 Browser-based soundscape sound event detection model (BBSED)](https://github.com/johens/bb-sed.git)  

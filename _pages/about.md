@@ -191,6 +191,17 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/bbsed.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
+  [✈️ Low-cost feedback active noise control in aircraft cabin (In Progress)](https://johens.github.io/)  
+  **Project duration: 2024.03 - 2025.04**
+
+  - Active noise control (ANC) for business class seat in aircraft cabins is investigated.
+  - Numerical studies are undertaken to study zone of quiet (ZoQ) from various ANC configurations in a simulator cabin.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/aircraftANCtest.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
   [📱 Browser-based soundscape sound event detection model (BBSED)](https://github.com/johens/bb-sed.git)  
   **Project duration: 2022.01 - 2022.03**
 

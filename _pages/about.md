@@ -188,7 +188,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 
 # 🎛 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/bbsed.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/aircraftANCtest.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
   
   [✈️ Low-cost feedback active noise control in aircraft cabin (In Progress)](https://johens.github.io/)  
@@ -199,7 +199,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/aircraftANCtest.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project</div><img src='images/bbsed.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
   
   [📱 Browser-based soundscape sound event detection model (BBSED)](https://github.com/johens/bb-sed.git)  

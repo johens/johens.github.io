@@ -20,19 +20,19 @@ redirect_from:
 
 Hi! I am a creative technologist at heart and enjoy approaching problems from multiple perspectives. I am an inter-disciplinant and explored many ideas and projects, starting first from music to audio, spanning sound, acoustics, architecture, and speech (particularly infant speech). I graduated with my PhD. in 2025 from the [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf) for my contributions in ANC research applied to complex spaces. My dissertation is titled; *"Developments and applications of active noise control in plenum windows."* Concurrently, I also contributed as a researcher at the [Nanyang Technological University](https://www.ntu.edu.sg/) for toddler speech and audio processing. Feel free to reach out to me for collaborations or AMA at; <a href='mailto:johann@live.com.sg'>johann@live.com.sg
 
-My research interest is focused on the area of audio and acoustics, and my PhD was in the sub-topic of active noise control (eg. aircraft cabin) and soundscape research. I also contributed to several papers investigating virtual reality reproduction for soundscapes with HMD systems (Oculus Quest). On the industrious front, I worked on several acoustics construction project and audio projects relating to speech enhancement work (incl. AEC/AFC, dereverbeation, and speech source separation).  
+My research interest is focused on the area of audio and acoustics, and my PhD was in the sub-topic of active noise control (eg. aircraft cabin) and soundscape research. I also contributed to several papers investigating virtual reality reproduction for soundscapes with HMD (Oculus Quest) and CAVE systems. On the industrious front, I worked on several acoustics construction project. audio projects relating to speech enhancement work (incl. AEC/AFC, dereverbeation, and speech source separation), as well as musical and podcast-related works.  
 
 I have published several papers in Q1 journals and conferences on these topic and interested readers can find my Researcher profile here; <a href='https://scholar.google.com/citations?user=G2efZMcAAAAJ'>Google Scholar.  
 <a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">
   <img
     alt="Google Scholar citations"
-    src="https://img.shields.io/badge/citations-154-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
+    src="https://img.shields.io/badge/citations-174-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
   />
 </a>
 <a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">
   <img
     alt="h-index"
-    src="https://img.shields.io/badge/h--index-6-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
+    src="https://img.shields.io/badge/h--index-7-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
   />
 </a>
 

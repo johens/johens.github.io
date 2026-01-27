@@ -39,6 +39,7 @@ I have published several papers in Q1 journals and conferences on these topic an
 In my spare time I also enjoy music, so some of the projects displayed here includes my musical works which I pursued on the side (original singles, podcast, etc...), as well as some professional work for institutions and government. 🐦
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Joined [EASTECH](https://www.eastech.com/) as s Senior Manager, Audio AI Research Architect!
 - *2025.06*: &nbsp;🎉🎉 **Graduated from my PhD candidacy at the** [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
 - *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  

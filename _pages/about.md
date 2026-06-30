@@ -26,7 +26,7 @@ I have published several papers in Q1 journals and conferences on several topic,
 <a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">
   <img
     alt="Google Scholar citations"
-    src="https://img.shields.io/badge/citations-174-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
+    src="https://img.shields.io/badge/citations-201-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"
   />
 </a>
 <a href="https://scholar.google.com/citations?user=G2efZMcAAAAJ">

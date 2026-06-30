@@ -39,14 +39,15 @@ I have published several papers in Q1 journals and conferences on several topic,
 In my spare time I also enjoy music, so some of the projects displayed here includes my musical works which I pursued on the side (original singles, podcast, etc...), as well as some professional work for institutions and government. 🐦
 
 # 🔥 News
-- *2026.06*: &nbsp;📝🎉 Our paper is accepted at AIAA Journal of Aircraft; titled
+- *2026.06*: &nbsp;📝🎉 **Our paper is accepted at AIAA Journal of Aircraft; titled**
 *"[Low-cost active noise control in business class seats of aircraft cabins. [Pending Production, Link will be provided soon]](https://johens.github.io)"*.
-- *2025.09*: &nbsp;🎉🎉 Joined [EASTECH](https://www.eastech.com/) as s Senior Manager, Audio AI Research Architect!
+- *2025.09*: &nbsp;🎉🎉 **Joined [EASTECH](https://www.eastech.com/) as s Senior Manager, Audio AI Research Architect!**
 - *2025.06*: &nbsp;🎉🎉 **Graduated from my PhD candidacy at the** [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
+- *2025.03*: &nbsp;🎉🎉 Successfully defended my PhD! *Dissertation: [Developments of active noise control in plenum windows.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC)*
 - *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
 *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
-- *2024.10*: &nbsp;🎉🎉 Joined [EMPOWER](https://www.ntu.edu.sg/empower) lab at NTU as an Audio Researcher!
+- *2024.10*: &nbsp;🎉🎉 **Joined [EMPOWER](https://www.ntu.edu.sg/empower) lab at NTU as an Audio Researcher!**
 - *2024.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE25; titled  
 *"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN_2024_2780)"*, held at Nantes, France.
 - *2024.08*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  

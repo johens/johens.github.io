@@ -44,7 +44,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 - *2025.09*: &nbsp;🎉🎉 **Joined [EASTECH](https://www.eastech.com/) as s Senior Manager, Audio AI Research Architect!**
 - *2025.06*: &nbsp;🎉🎉 **Graduated from my PhD candidacy at the** [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
 - *2025.03*: &nbsp;🎉🎉 Successfully defended my PhD! *Dissertation: [Developments of active noise control in plenum windows.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC)*
-- *2025.04*: &nbsp;🗣🎉 Participated in ICLR 2025, held at Singapore for the [Workshop AI4CHL](https://openreview.net/forum?id=NWBBG8wkXz).
+- *2025.04*: &nbsp;🗣🎉 **Our paper is accepted at ICLR 2025 (Singapore); titled** *"[Optimising screen-based learning for children with neuropersonalised acoustic ostensive signals]([https://doi.org/10.1016/j.buildenv.2024.112425](https://openreview.net/forum?id=NWBBG8wkXz))"*.
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
 *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
 - *2024.10*: &nbsp;🎉🎉 **Joined [EMPOWER](https://www.ntu.edu.sg/empower) lab at NTU as an Audio Researcher!**

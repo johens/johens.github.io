@@ -69,7 +69,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 *"[Effect of audio-visual interaction on soundscape in the urban residential context: A virtual reality experiment](https://doi.org/10.1016/j.apacoust.2022.108717)"*.
 - *2022.02*: &nbsp;📝🎉 Our paper is accepted at Applied Acoustics; titled  
 *"[The effects of visual landscape and traffic type on soundscape perception in high-rise residential estates of an urban city](https://doi.org/10.1016/j.apacoust.2021.108580)"*
-- *2022.01*: &nbsp;🏃‍♂️🇸🇬 Started my PhD at the National University of Singapore!
+- *2022.01*: &nbsp;🏃‍♂️🇸🇬 **Started my PhD at the National University of Singapore!**
 - *2021.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE21; titled  
 *"[The effects of aural and visual factors on appropriateness ratings of residential spaces in an urban city.](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 
@@ -319,6 +319,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 - ***2024.07*** WSQ - Internet of Things (IoT) Management with Raspberry Pi :: Tertiary Courses
 - ***2024.07*** Edge AI :: Edge Impulse
 - ***2023.06*** LabVIEW Core 1, 2, 3 :: National Instruments
+- ***2026.04*** Dante Level One (3rd Edition) :: Audinate
 - ***2025.05*** Speaker Recognition :: By Award Winning Textbook Author - Quan Wang :: Udemy
 - ***2025.02*** Bayley-4: Introductory Online Training :: Scales of Infant and Toddler Development Assessment :: Pearson
 - ***2025.01*** Unraveling the Cycling City :: University of Amsterdam
@@ -326,6 +327,9 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 - ***2023.06 & Renewed 2024.10*** Responsible Conduct of Research :: CITI Program
 - ***2019.01*** Sound System Design & Optimisation Course by Merlijn van Veen (Meyer Sound) :: Royal Conservatory The Hague, Netherlands.
 
-# 💻 Internships
+# 💻 Internships & Work
+- ***2018.01 - 2020.06***: Sound Designer :: Department of Japanese Studies, National University of Singapore :: [Home on the Dot](https://blog.nus.edu.sg/homeonthedot/)
 - ***2018.05 - 2018.12***: Acoustic Internship :: [Soundzipper LLP](https://soundzipper.com/)
+- ***2019.01 - 2020.06***: Student Photographer :: Yong Siew Toh Conservatory, National University of Singapore
 - ***2013.01 - 2013.04***: Music Teacher Intern :: Ministry of Education, Singapore. :: [Ahmad Ibrahim Secondary School](https://www.ahmadibrahimsec.moe.edu.sg/) :: Enhanced Music Programme ::
+

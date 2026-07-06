@@ -56,6 +56,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 *"[Experimental study of active noise control for a full-scale plenum window in a domestic apartment](https://doi.org/10.1016/j.apacoust.2024.110120)"*.
 - *2024.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled  
 *"[Optimization of single-channel active noise control performance in a plenum window using the surface impedance approach](https://doi.org/10.1121/10.0024938)"*.
+- *2023.08*: &nbsp;📋📌 Open-sourced large-scale environmental sound data repository of an urban city of site recordings; linked *"[Dataset of comprehensive environmental sound categorization scheme of an urban city]([https://doi.org/10.1121/10.0024938](https://scholar.google.com/scholar?oi=bibs&cluster=9067667778342869493&btnI=1&hl=en))"*.
 - *2023.03*: &nbsp;🪟🎉 Presented in ASA 2023 on our work regarding;  
 *["Application of active noise control for plenum window in a domestic setting](https://doi.org/10.1121/10.0018016)"*, held at Chicago, USA.
 - *2023.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled  
@@ -68,7 +69,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 *"[The effects of visual landscape and traffic type on soundscape perception in high-rise residential estates of an urban city](https://doi.org/10.1016/j.apacoust.2021.108580)"*
 - *2022.01*: &nbsp;🏃‍♂️🇸🇬 Started my PhD at the National University of Singapore!
 - *2021.08*: &nbsp;👨‍💻🎉 Our paper is accepted and presented in INTERNOISE21; titled  
-*"[Generalization of noise insulation afforded by common window designs with active noise control exposed to moving noise source](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
+*"[The effects of aural and visual factors on appropriateness ratings of residential spaces in an urban city.](https://doi.org/10.3397/IN-2021-3048)"*, held at Washington D.C., USA.
 
 # 📖 Education
 - *2022.01 - 2025.06*: 👨‍🎓 **Doctor of Philosophy, National University of Singapore.**  

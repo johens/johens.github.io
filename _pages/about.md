@@ -328,7 +328,7 @@ LU, Y., **TAN J.K.**, HASEGAWA, Y., & LAU, S-K.
 - ***2019.01*** Sound System Design & Optimisation Course by Merlijn van Veen (Meyer Sound) :: Royal Conservatory The Hague, Netherlands.
 
 # 💻 Internships & Work
-- ***2018.01 - 2020.06***: Sound Designer :: Department of Japanese Studies, National University of Singapore :: [Home on the Dot](https://blog.nus.edu.sg/homeonthedot/)
+- ***2018.01 - 2020.06***: Sound Designer - Podcast :: Department of Japanese Studies, National University of Singapore :: [Home on the Dot](https://blog.nus.edu.sg/homeonthedot/)
 - ***2018.05 - 2018.12***: Acoustic Internship :: [Soundzipper LLP](https://soundzipper.com/)
 - ***2019.01 - 2020.06***: Student Photographer :: Yong Siew Toh Conservatory, National University of Singapore
 - ***2013.01 - 2013.04***: Music Teacher Intern :: Ministry of Education, Singapore. :: [Ahmad Ibrahim Secondary School](https://www.ahmadibrahimsec.moe.edu.sg/) :: Enhanced Music Programme ::

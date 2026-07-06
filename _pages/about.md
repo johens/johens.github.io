@@ -44,7 +44,8 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 - *2025.09*: &nbsp;🎉🎉 **Joined [EASTECH](https://www.eastech.com/) as s Senior Manager, Audio AI Research Architect!**
 - *2025.06*: &nbsp;🎉🎉 **Graduated from my PhD candidacy at the** [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
 - *2025.03*: &nbsp;🎉🎉 **Successfully defended my PhD!** *Dissertation: [Developments of active noise control in plenum windows.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC)*
-- *2025.04*: &nbsp;🗣🎉 Our paper is accepted at ICLR 2025; titled [Optimising screen-based learning for children with neuropersonalised acoustic ostensive signals]([https://doi.org/10.1016/j.buildenv.2024.112425](https://openreview.net/forum?id=NWBBG8wkXz)), held at Singapore, Singapore.
+- *2025.04*: &nbsp;🗣🎉 Our paper is accepted at ICLR 2025; titled
+*"[Optimising screen-based learning for children with neuropersonalised acoustic ostensive signals](https://openreview.net/forum?id=NWBBG8wkXz)*", held at Singapore, Singapore.
 - *2025.02*: &nbsp;📝🎉 Our paper is accepted at Building & Environment; titled  
 *"[Effect of moving and multiple noise sources on active noise control performance afforded to plenum window via a time-domain study](https://doi.org/10.1016/j.buildenv.2024.112425)"*.
 - *2024.10*: &nbsp;🎉🎉 **Joined [EMPOWER](https://www.ntu.edu.sg/empower) lab at NTU as an Audio Researcher!**
@@ -56,7 +57,8 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 *"[Experimental study of active noise control for a full-scale plenum window in a domestic apartment](https://doi.org/10.1016/j.apacoust.2024.110120)"*.
 - *2024.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled  
 *"[Optimization of single-channel active noise control performance in a plenum window using the surface impedance approach](https://doi.org/10.1121/10.0024938)"*.
-- *2023.08*: &nbsp;📋📌 Open-sourced large-scale environmental sound data repository of an urban city of site recordings; linked [Dataset of comprehensive environmental sound categorization scheme of an urban city]([https://doi.org/10.1121/10.0024938](https://scholar.google.com/scholar?oi=bibs&cluster=9067667778342869493&btnI=1&hl=en))
+- *2023.08*: &nbsp;📋📌 Open-sourced large-scale environmental sound data repository of an urban city of site recordings; linked
+*"[Dataset of comprehensive environmental sound categorization scheme of an urban city](https://scholar.google.com/scholar?oi=bibs&cluster=9067667778342869493&btnI=1&hl=en)"*
 - *2023.03*: &nbsp;🪟🎉 Presented in ASA 2023 on our work regarding;  
 *["Application of active noise control for plenum window in a domestic setting](https://doi.org/10.1121/10.0018016)"*, held at Chicago, USA.
 - *2023.02*: &nbsp;📝🎉 Our paper is accepted at JASA; titled  

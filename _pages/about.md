@@ -40,7 +40,7 @@ In my spare time I also enjoy music, so some of the projects displayed here incl
 
 # 🔥 News
 - *2026.06*: &nbsp;📝🎉 **Our paper is accepted at AIAA Journal of Aircraft; titled**
-*"[Low-cost active noise control in business class seats of aircraft cabins. [Pending Production, Link will be provided soon]](https://johens.github.io)"*.
+*"[Low-cost active noise control in business class seats of aircraft cabins. [Low-cost ANC for business class seats](https://doi.org/10.2514/1.C038904)*
 - *2025.09*: &nbsp;🎉🎉 **Joined [EASTECH](https://www.eastech.com/) as s Senior Manager, Audio AI Research Architect!**
 - *2025.06*: &nbsp;🎉🎉 **Graduated from my PhD candidacy at the** [National University of Singapore](https://cde.nus.edu.sg/arch/wp-content/uploads/sites/32/2023/04/TAN-Johann-Kay-Ann.pdf)!
 - *2025.03*: &nbsp;🎉🎉 **Successfully defended my PhD!** *Dissertation: [Developments of active noise control in plenum windows.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=G2efZMcAAAAJ&citation_for_view=G2efZMcAAAAJ:ufrVoPGSRksC)*
